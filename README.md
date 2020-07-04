@@ -10,3 +10,12 @@
 https://chromedriver.chromium.org/downloads  
 將chromedriver.exe放到同資料夾內
 
+_____________________________  
+
+## 使用方式 :  
+修改single_word_base.txt裡面放自己想測的名字組合  
+> python namesearch.py [familyname]  
+
+例如  
+
+> python namesearch.py 陳  
